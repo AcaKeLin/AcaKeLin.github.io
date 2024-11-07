@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Kelin Academic</title>
+    <link>https://acakelin.github.io/en/series/</link>
+    <description>Recent content in Series on Kelin Academic</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2024-2024 KeLin Academic. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 07 Nov 2024 20:17:03 +0800</lastBuildDate>
+    <atom:link href="https://acakelin.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitNotes</title>
+      <link>https://acakelin.github.io/en/series/gitnotes/</link>
+      <pubDate>Thu, 07 Nov 2024 20:17:03 +0800</pubDate>
+      <guid>https://acakelin.github.io/en/series/gitnotes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://acakelin.github.io/en/series/tutorial/</link>
+      <pubDate>Fri, 11 Oct 2024 11:47:31 +0800</pubDate>
+      <guid>https://acakelin.github.io/en/series/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>https://acakelin.github.io/en/series/guide/</link>
+      <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
+      <guid>https://acakelin.github.io/en/series/guide/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

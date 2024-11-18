@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on Kelin Academic</title>
-    <link>https://acakelin.github.io/en/series/tutorial/</link>
+    <link>http://localhost:1313/en/series/tutorial/</link>
     <description>Recent content in Tutorial on Kelin Academic</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2024-2024 KeLin Academic. All Rights Reserved.</copyright>
     <lastBuildDate>Fri, 11 Oct 2024 11:47:31 +0800</lastBuildDate>
-    <atom:link href="https://acakelin.github.io/en/series/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/series/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo&#43;GitHub Build Blog On Windows</title>
-      <link>https://acakelin.github.io/en/blog/2024/10/hugo-github-build-blog-on-windows/</link>
+      <link>http://localhost:1313/en/blog/2024/10/hugo-github-build-blog-on-windows/</link>
       <pubDate>Fri, 11 Oct 2024 11:47:31 +0800</pubDate>
-      <guid>https://acakelin.github.io/en/blog/2024/10/hugo-github-build-blog-on-windows/</guid>
+      <guid>http://localhost:1313/en/blog/2024/10/hugo-github-build-blog-on-windows/</guid>
       <description>&lt;p&gt;Here’s a concise translation of your tutorial into English:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;reference-articles-for-this-tutorial&#34;&gt;Reference Articles for This Tutorial:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thanks to three great authors for providing reference for this tutorial:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a&#xA;  href=&#34;https://jimmysong.io/blog/building-github-pages-with-hugo/&#34;&#xA;  &#xA;  target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;jimmysong&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a&#xA;  href=&#34;https://sazerac-kk.github.io/p/%E6%95%99%E7%A8%8Bhugogithub%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/&#34;&#xA;  &#xA;  target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;sazerac-kk&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a&#xA;  href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;&#xA;  &#xA;  target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;letere-gzj&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;blockquote class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;&#xA;    &lt;p class=&#34;alert-heading fw-bold&#34;&gt;&#xA;      &lt;svg aria-hidden=&#34;true&#34; class=&#34;bi bi-info-circle hi-svg-inline me-1 me-lg-2&#34; fill=&#34;currentColor&#34; height=&#34;1em&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;1em&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;  &lt;path d=&#34;M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16&#34;/&gt;&#xA;  &lt;path d=&#34;m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0&#34;/&gt;&#xA;&lt;/svg&gt;Note&#xA;    &lt;/p&gt;</description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://acakelin.github.io/en/blog/2023/03/tutorial/</link>
+      <link>http://localhost:1313/en/blog/2023/03/tutorial/</link>
       <pubDate>Fri, 31 Mar 2023 11:47:31 +0800</pubDate>
-      <guid>https://acakelin.github.io/en/blog/2023/03/tutorial/</guid>
+      <guid>http://localhost:1313/en/blog/2023/03/tutorial/</guid>
       <description>&lt;p&gt;A simple tutorial that offers samples and code snippets show how to create rich content, please refer to the &lt;a&#xA;  href=&#34;https://hbstack.dev/en/&#34;&#xA;  &#xA;  target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;documentation&lt;/a&gt; for more usage.&lt;/p&gt;</description>
     </item>
   </channel>

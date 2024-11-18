@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://acakelin.github.io/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
       <lastmod>2024-11-07T20:17:03+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://acakelin.github.io/zh-hans/sitemap.xml</loc>
+    <loc>http://localhost:1313/zh-hans/sitemap.xml</loc>
     
       <lastmod>2024-11-07T21:36:19+08:00</lastmod>
     

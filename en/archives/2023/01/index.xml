@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan on Kelin Academic</title>
-    <link>http://localhost:1313/en/archives/2023/01/</link>
+    <link>https://acakelin.github.io/en/archives/2023/01/</link>
     <description>Recent content in Jan on Kelin Academic</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2024-2024 KeLin Academic. All Rights Reserved.</copyright>
-    <atom:link href="http://localhost:1313/en/archives/2023/01/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acakelin.github.io/en/archives/2023/01/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

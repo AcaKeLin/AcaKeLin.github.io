@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Kelin Academic</title>
-    <link>http://localhost:1313/en/tags/linux/</link>
+    <link>https://acakelin.github.io/en/tags/linux/</link>
     <description>Recent content in Linux on Kelin Academic</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2024-2024 KeLin Academic. All Rights Reserved.</copyright>
     <lastBuildDate>Sun, 16 Oct 2022 22:42:23 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acakelin.github.io/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install on Ubuntu</title>
-      <link>http://localhost:1313/en/docs/installation/linux/ubuntu/</link>
+      <link>https://acakelin.github.io/en/docs/installation/linux/ubuntu/</link>
       <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
-      <guid>http://localhost:1313/en/docs/installation/linux/ubuntu/</guid>
+      <guid>https://acakelin.github.io/en/docs/installation/linux/ubuntu/</guid>
       <description>&lt;p&gt;This guide show you how to install on Ubuntu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Install on Arch Linux</title>
-      <link>http://localhost:1313/en/docs/installation/linux/archlinux/</link>
+      <link>https://acakelin.github.io/en/docs/installation/linux/archlinux/</link>
       <pubDate>Sun, 04 Sep 2022 22:42:23 +0800</pubDate>
-      <guid>http://localhost:1313/en/docs/installation/linux/archlinux/</guid>
+      <guid>https://acakelin.github.io/en/docs/installation/linux/archlinux/</guid>
       <description>&lt;p&gt;This guide show you how to install on Arch Linux.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,39 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kelin Academic</title>
-    <link>http://localhost:1313/en/categories/</link>
+    <link>https://acakelin.github.io/en/categories/</link>
     <description>Recent content in Categories on Kelin Academic</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2024-2024 KeLin Academic. All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 07 Nov 2024 20:17:03 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acakelin.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content</title>
-      <link>http://localhost:1313/en/categories/content/</link>
+      <link>https://acakelin.github.io/en/categories/content/</link>
       <pubDate>Thu, 07 Nov 2024 20:17:03 +0800</pubDate>
-      <guid>http://localhost:1313/en/categories/content/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>English</title>
-      <link>http://localhost:1313/en/categories/english/</link>
-      <pubDate>Wed, 04 Sep 2024 22:42:23 +0800</pubDate>
-      <guid>http://localhost:1313/en/categories/english/</guid>
+      <guid>https://acakelin.github.io/en/categories/content/</guid>
       <description></description>
     </item>
     <item>
       <title>Installation</title>
-      <link>http://localhost:1313/en/categories/installation/</link>
+      <link>https://acakelin.github.io/en/categories/installation/</link>
       <pubDate>Sun, 16 Oct 2022 22:42:23 +0800</pubDate>
-      <guid>http://localhost:1313/en/categories/installation/</guid>
+      <guid>https://acakelin.github.io/en/categories/installation/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/en/categories/posts/</link>
+      <link>https://acakelin.github.io/en/categories/posts/</link>
       <pubDate>Fri, 04 Feb 2022 20:26:48 +0800</pubDate>
-      <guid>http://localhost:1313/en/categories/posts/</guid>
+      <guid>https://acakelin.github.io/en/categories/posts/</guid>
       <description></description>
     </item>
   </channel>

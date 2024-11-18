@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023 on 科林学术知识数据库</title>
-    <link>http://localhost:1313/zh-hans/archives/2023/</link>
+    <link>https://acakelin.github.io/zh-hans/archives/2023/</link>
     <description>Recent content in 2023 on 科林学术知识数据库</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <copyright>Copyright © 2024-2024 KeLin Academic. All Rights Reserved.</copyright>
-    <atom:link href="http://localhost:1313/zh-hans/archives/2023/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acakelin.github.io/zh-hans/archives/2023/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
